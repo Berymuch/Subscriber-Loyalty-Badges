@@ -1,4 +1,6 @@
 # Subscriber-Loyalty-Badges
+<img width="5004" height="5000" alt="Loyalty Badges" src="https://github.com/user-attachments/assets/a74b5bb9-4435-44b8-ab81-e4c0bc494c09" />
+
 Assets for simple and cleanly progressing loyalty badges! To use, simply download the archive and extract to a location of your choice, and upload the extracted images to your preferred streaming service as needed.
 
 Comes with up to 7yrs of loyalty badge progression at Native res (1000px), 72px, 36px, and 18px resolutions for each. Includes custom Flair for Tier 1 and 2 Subscribers if used on Twitch, as well as badges for 1st, 2nd, 3rd, 6th, and 9th months of subscriber loyalty.
